@@ -40,7 +40,7 @@ For example, I used PageSpeed Insight to gain some insight into Ushahidi’s hom
 
 - **Ensure that elements like Tables, Headings and Bullet lists are marked properly using Semantic HTML**
 
-    This also helps individuals with visual impairments to navigate the web easily. Tables should be wrapped in the <td>, <th>, and <tr> tags, while bullet lists should be placed within the <ul> and <li> tags. Headings should also be wrapped in tags such as <h2> or <h3>. For example:
+    This also helps individuals with visual impairments to navigate the web easily. Tables should be wrapped in the <td>, <th>, and <tr> tags, while bullet lists should be placed within the ul and li tags. Headings should also be wrapped in tags such as h2 tag or h3 tag. For example:
 
 ![PageSpeed Insights Lists](./images/accessibility-table.png)
 

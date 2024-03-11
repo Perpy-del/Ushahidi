@@ -10,9 +10,9 @@ Tools such as;
     - **Wave (browser extension or online tool)**,
     - **PageSpeed Insights (this particular tool helps with the parts that you need to fix and gives feedback on them)**
 
-    ![PageSpeed Insights Ushahidi Accessibility Score](./images/accessibility-score.png)
+![PageSpeed Insights Ushahidi Accessibility Score](./images/accessibility-score.png)
 
-    ![PageSpeed Insights Ushahidi Accessibility ARIA](./images/accessibility-aria.png)
+![PageSpeed Insights Ushahidi Accessibility ARIA](./images/accessibility-aria.png)
 
 - ## Manual Testing
 This involves using manual accessibility testing to catch issues. This includes;

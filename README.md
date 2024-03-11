@@ -26,7 +26,7 @@ This involves using manual accessibility testing to catch issues. This includes;
 
 ![Constrast Checker](./images/accessibility-contrast.png)
 
-    For example, I used PageSpeed Insight to gain some insight into Ushahidi’s homepage and noticed that the cookie popup came back with some issues. The WebAIM might help with better color contrast for that dialog box.
+For example, I used PageSpeed Insight to gain some insight into Ushahidi’s homepage and noticed that the cookie popup came back with some issues. The WebAIM might help with better color contrast for that dialog box.
 
 ![PageSpeed Insignt Contrast](./images/accessibility-color-contrast.png)
 

@@ -1,4 +1,4 @@
-!Accessibility Testing on Ushahidi
+# Accessibility Testing on Ushahidi
 
 
 Accessibility might seem menial but it is a key component of good web design and makes sure that your website does not exclude a sizable portion of your audience. It ensures that individuals with disabilities can perceive, understand, navigate and interact with your website effectivity and eliminates barriers that might prevent them from accessing information or using digital services, thereby promoting inclusivity.
@@ -24,5 +24,5 @@ This involves using manual accessibility testing to catch issues. This includes;
 - **Sufficient Color Contrast:**
 
     Users with visual impairment such as color blindness will be unable to read content if there is no sufficient contrast between elements. Tools like WebAIM Contrast Checker ![WebAIM](https://webaim.org/resources/contrastchecker/) can help with checking for the right color contrasts.
-    
+
 
